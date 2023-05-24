@@ -1,11 +1,6 @@
-p{
-<<<<<<< HEAD
-    color: aqua;
-=======
-    color: aliceblue;
->>>>>>> develop
-}
-
 div{
     background-color: aqua;
+}
+#color{
+    color: aqua;
 }
